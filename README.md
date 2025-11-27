@@ -3,7 +3,7 @@
 Atualmente estou estudando Análise e Desenvolvimento de Sistemas.
 
 
-Meu foco é construir uma carreira na área dados.
+💻 Meu foco é construir uma carreira na área dados.
 
 
 <b>Estou apta a trabalhar com seguintes ferramentas:
