@@ -6,7 +6,7 @@ Estou apta a trabalhar com seguintes ferramentas:
 
 <img width="50" heigth="50" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
 <img width="50" heigth="50" src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>
-<img width="50" height="50" src="https://i.imgur.com/2sU5Fp3.png">
+<img width="50" height="50" src="https://i.postimg.cc/CdpfRzTn/New-Power-BI-Logo-svg.png">
 
 
 <!--
